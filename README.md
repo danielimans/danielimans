@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @danielimans
 
 🎓 I’m a student currently learning **Web Technology** 
+
 💻 Passionate about **Web Development** and real-world software projects  
 🤝 I’m looking to collaborate with **IT professionals** and fellow developers  
 📚 Always exploring new frameworks and full-stack development tools  
