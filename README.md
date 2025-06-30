@@ -23,6 +23,9 @@
 
 ### 🚀 Featured Project
 
+[💸 Expense Budget Tracker](https://github.com/danielimans/BudgetTracker)  
+An ASP.NET Core MVC app for tracking expenses, managing budgets, and generating reports with charts and PDFs.
+
 ---
 <!---
 danielimans/danielimans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
