@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @danielimans
 
-🎓 I’m a student currently learning **Web Technology**
+🎓 I’m a student currently learning **Web Technology** 
 💻 Passionate about **Web Development** and real-world software projects  
 🤝 I’m looking to collaborate with **IT professionals** and fellow developers  
 📚 Always exploring new frameworks and full-stack development tools  
@@ -23,7 +23,7 @@
 
 ### 🚀 Featured Project
 
-[💸 Expense Budget Tracker](https://github.com/danielimans/BudgetTracker)  
+[💸 Budget Tracker](https://github.com/danielimans/BudgetTracker)  
 An ASP.NET Core MVC app for tracking expenses, managing budgets, and generating reports with charts and PDFs.
 
 ---
